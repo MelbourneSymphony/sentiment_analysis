@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/818784246610975517/01a163f97ef243f9aecbb2d67d3ebfd9/artifacts
+deleted_time: 1756963559580
+end_time: 1756962716306
+entry_point_name: ''
+experiment_id: '818784246610975517'
+lifecycle_stage: deleted
+run_id: 01a163f97ef243f9aecbb2d67d3ebfd9
+run_name: sassy-grub-115
+run_uuid: 01a163f97ef243f9aecbb2d67d3ebfd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756962716055
+status: 4
+tags: []
+user_id: samharvey

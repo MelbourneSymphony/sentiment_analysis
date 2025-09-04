@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/818784246610975517/22ac1d7aa85e4020aecd6c28e9a45581/artifacts
+deleted_time: 1756965281184
+end_time: 1756963788008
+entry_point_name: ''
+experiment_id: '818784246610975517'
+lifecycle_stage: deleted
+run_id: 22ac1d7aa85e4020aecd6c28e9a45581
+run_name: crawling-tern-361
+run_uuid: 22ac1d7aa85e4020aecd6c28e9a45581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756963787708
+status: 4
+tags: []
+user_id: samharvey

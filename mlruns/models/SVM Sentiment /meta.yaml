@@ -1,0 +1,6 @@
+aliases: {}
+creation_timestamp: 1756963602985
+description: SVM multi class (3) classifier for text sentiment analysis- outputs positive,
+  negative, neutral.
+last_updated_timestamp: 1756965496247
+name: 'SVM Sentiment '

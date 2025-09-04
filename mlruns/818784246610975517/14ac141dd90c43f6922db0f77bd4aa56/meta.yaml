@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/818784246610975517/14ac141dd90c43f6922db0f77bd4aa56/artifacts
+deleted_time: 1756963559578
+end_time: 1756962932015
+entry_point_name: ''
+experiment_id: '818784246610975517'
+lifecycle_stage: deleted
+run_id: 14ac141dd90c43f6922db0f77bd4aa56
+run_name: mysterious-shoat-536
+run_uuid: 14ac141dd90c43f6922db0f77bd4aa56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756962931647
+status: 4
+tags: []
+user_id: samharvey

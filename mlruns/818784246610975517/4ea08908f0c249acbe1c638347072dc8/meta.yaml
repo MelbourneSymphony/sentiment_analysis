@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/818784246610975517/4ea08908f0c249acbe1c638347072dc8/artifacts
+deleted_time: 1756963559566
+end_time: 1756963449352
+entry_point_name: ''
+experiment_id: '818784246610975517'
+lifecycle_stage: deleted
+run_id: 4ea08908f0c249acbe1c638347072dc8
+run_name: charming-moth-616
+run_uuid: 4ea08908f0c249acbe1c638347072dc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756963449027
+status: 4
+tags: []
+user_id: samharvey

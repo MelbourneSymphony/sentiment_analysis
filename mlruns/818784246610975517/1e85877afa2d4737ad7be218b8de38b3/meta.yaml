@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/818784246610975517/1e85877afa2d4737ad7be218b8de38b3/artifacts
+end_time: 1756964977323
+entry_point_name: ''
+experiment_id: '818784246610975517'
+lifecycle_stage: active
+run_id: 1e85877afa2d4737ad7be218b8de38b3
+run_name: hilarious-moose-407
+run_uuid: 1e85877afa2d4737ad7be218b8de38b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756964977191
+status: 3
+tags: []
+user_id: samharvey

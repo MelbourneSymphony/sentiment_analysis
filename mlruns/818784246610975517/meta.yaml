@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/818784246610975517
+creation_time: 1756962715653
+experiment_id: '818784246610975517'
+last_update_time: 1756962715653
+lifecycle_stage: active
+name: Sentiment Analysis SVM Experiment

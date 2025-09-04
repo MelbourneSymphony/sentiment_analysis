@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/818784246610975517/ec9469f3ac914781bb18805d1d699202/artifacts
+deleted_time: 1756965281234
+end_time: 1756963736929
+entry_point_name: ''
+experiment_id: '818784246610975517'
+lifecycle_stage: deleted
+run_id: ec9469f3ac914781bb18805d1d699202
+run_name: placid-shrimp-446
+run_uuid: ec9469f3ac914781bb18805d1d699202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756963736728
+status: 4
+tags: []
+user_id: samharvey
